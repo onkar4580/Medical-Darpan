@@ -1,0 +1,61 @@
+
+  .nav-class{
+    background-color: green;
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    height: 10vh;
+    justify-content: start;
+    
+  }
+  
+  .div-box{
+    margin-left: 20px;
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-right: 50px;
+    border-radius: 4px;
+  }
+  
+  .header{
+    display: flex;
+    padding-top: 20px;
+  }
+  
+  .ul-class{
+    display: flex;
+    padding-top: 25px;
+    padding-left: 30px;
+  }
+  
+  .li-class{
+    display: flex;
+    padding-left: 20px;
+    
+  }
+  
+  .ul2-class{
+    display: flex;
+    margin-left: 60px;
+    padding-top: 25px;
+    padding-left: 60px;
+    
+  }
+  
+  .li2-class{
+    display: flex;
+    padding-left: 30px;
+    
+    justify-items: end;
+    margin-right: 40px;
+    cursor: pointer;
+  }
+  
+  .fa-user-circle-o{
+    /* padding-top: 25px; */
+    cursor: pointer;
+  }
+  
+  

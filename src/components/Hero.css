@@ -1,0 +1,60 @@
+/* hero section */
+  
+.hero-class{
+    padding: 20px;
+    font-family: sans-serif;
+  }
+  
+  .form{
+    margin-top: 10px;
+  }
+  
+  .input{
+    width: 450px;
+    height: 47px;
+    border-style: solid;
+    padding-left: 20px;
+    border-radius: 5px 0px 0px 5px;
+  }
+  .btn{
+    background-color: gray;
+    color: white;
+    height: 51px;
+    width: 70px;
+    border-style: solid;
+    border-color: gray ;
+    border-radius: 0px 5px 5px 0px;
+    cursor: pointer;
+  }
+  .section{
+    margin-top: 20px;
+    display: flex;
+    justify-items: flex-start;
+  }
+  
+  .btn2{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: gray;
+    color: white;
+    border-radius: 4px;
+    border-style: none ;
+    border-color: gray;
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+  }
+  
+  .btn3{
+    border-style: none;
+    border-radius: 4px;
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+  }
+
+  .med--class{
+    color: brown;
+    margin-top: 5px;
+  }
+  
